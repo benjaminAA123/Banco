@@ -1,6 +1,6 @@
 package com.iesam.bank.Domain;
 
-public class cliente {
+public class Cliente {
 
     private String dni;
     private String nombre;
